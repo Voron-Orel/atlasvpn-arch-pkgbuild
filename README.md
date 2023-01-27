@@ -7,4 +7,5 @@ git clone https://github.com/Voron-Orel/atlasvpn-arch-pkgbuld.git
 cd atlasvpn-arch-pkgbuld
 makepkg
 sudo pacman -U *.pkg.tar.zst 
+atlasvpn --help
 ```
