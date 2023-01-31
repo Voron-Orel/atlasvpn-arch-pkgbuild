@@ -25,7 +25,7 @@ package() {
   install -Dm644 "${srcdir}/data//usr/lib/systemd/system/atlasvpnd.service" -t "${pkgdir}/usr/lib/systemd/system/"
   install -Dm644 "${srcdir}/data//usr/lib/systemd/system/atlasvpnd.socket" -t "${pkgdir}/usr/lib/systemd/system/"
   
-# Configure windscribe binary and license
+# Configure binary and license
   echo "Configuring binary and license"
   install -Dm755 "${srcdir}/data/usr/bin/atlasvpn" -t "${pkgdir}/usr/bin/"
   install -Dm755 "${srcdir}/data/usr/sbin/atlasvpnd" -t "${pkgdir}/usr/bin/"
