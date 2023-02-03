@@ -3,7 +3,7 @@ Building the PureVPN-cli package and fix for installation on ArchLinux
 
 # Usage:
 ```
-https://github.com/Voron-Orel/purevpn-cli-pkgbuid.git
+git clone https://github.com/Voron-Orel/purevpn-cli-pkgbuid.git
 cd purevpn-cli-pkgbuid
 makepkg -s
 sudo pacman -U *.pkg.tar.zst 
