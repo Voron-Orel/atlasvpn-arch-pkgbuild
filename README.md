@@ -1,4 +1,4 @@
-# atlasvpn-arch-pkgbuld
+# atlasvpn pkgbuld ArchLinux
 Building the Atlasvpn package for installation on ArchLinux
 
 # Usage:
