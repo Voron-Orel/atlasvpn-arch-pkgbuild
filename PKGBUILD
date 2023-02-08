@@ -1,5 +1,5 @@
-# Maintainer: Voron-Orel
-# Contributor: Voron-Orel
+# Maintainer: https://github.com/Voron-Orel
+# Contributor: https://github.com/Voron-Orel
 
 pkgname=atlasvpn-bin
 pkgver=1.0.3
